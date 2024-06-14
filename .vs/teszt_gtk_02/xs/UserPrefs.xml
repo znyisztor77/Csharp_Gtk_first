@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{92D2C621-C42D-4D65-A44E-98DE1A19D17E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="teszt_gtk_02/Program.cs">
+    <Files>
+      <File FileName="teszt_gtk_02/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="teszt_gtk_02" expanded="True">
+            <Node name="teszt_gtk_02" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.teszt__gtk__02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

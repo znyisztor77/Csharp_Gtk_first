@@ -1,0 +1,6 @@
+/home/zoltan/Projects/teszt_gtk_02/teszt_gtk_02/bin/Debug/teszt_gtk_02.exe
+/home/zoltan/Projects/teszt_gtk_02/teszt_gtk_02/bin/Debug/teszt_gtk_02.pdb
+/home/zoltan/Projects/teszt_gtk_02/teszt_gtk_02/obj/x86/Debug/teszt_gtk_02.csproj.AssemblyReference.cache
+/home/zoltan/Projects/teszt_gtk_02/teszt_gtk_02/obj/x86/Debug/teszt_gtk_02.csproj.CoreCompileInputs.cache
+/home/zoltan/Projects/teszt_gtk_02/teszt_gtk_02/obj/x86/Debug/teszt_gtk_02.exe
+/home/zoltan/Projects/teszt_gtk_02/teszt_gtk_02/obj/x86/Debug/teszt_gtk_02.pdb
